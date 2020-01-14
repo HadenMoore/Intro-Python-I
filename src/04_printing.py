@@ -16,6 +16,6 @@ z = "I like turtles!"
 
 # Finally, print the same thing using an f-string
 
-print("%d is 10, %f id 2.25, %s is \"I like turtles!\"" % (x, y, z))
+print("%d is 10, %f is 2.25, %s is \"I like turtles!\"" % (x, y, z))
 
-print(f"{x} is 10, {y} id 2.25, {z} is \"I like turtles!\"")
+print(f"{x} is 10, {y} is 2.25, {z} is \"I like turtles!\"")
